@@ -10,7 +10,7 @@ This is an unofficial, non-commercial fan customization and is not affiliated wi
 
 Original assets remain subject to their respective copyright and licensing terms. Attribution does not imply permission to redistribute them.
 
-# osu!lazer — Competitive Setup (osu!standard)
+# osu!lazer — Personal Setup (osu!standard)
 
 Quick reference for a **1920×1080 / 165 Hz** whit keyboard and mouse setup, mainly **NM** with occasional **Hidden**. Priorities: readability, consistent timing, and minimal distractions.
 
@@ -23,21 +23,19 @@ Quick reference for a **1920×1080 / 165 Hz** whit keyboard and mouse setup, mai
 | Frame limiter | **8× refresh rate** (~1000 FPS at 165 Hz) |
 | UI scale / screen scaling | 1× / Disabled |
 
-**Check:** 4× is a starting point. Compare 8× or *Basically unlimited* if frame times or responsiveness improve; avoid VSync for lowest-latency play.
 
 ## Input
 
 | Setting | Value |
 | --- | --- |
-| High-precision mouse | On for mouse; test with tablet drivers |
-| Mouse sensitivity | Keep familiar setting (1.2×) |
+| High-precision mouse | On for mouse |
+| Mouse sensitivity | 520 DPI | osu!lazer setting (1.0×) |
 | Confine cursor | During gameplay |
 | Disable mouse clicks / wheel volume | On when tapping with keyboard / On |
-| Cursor size / auto-size | **0.4×** with current asset / Off |
+| Cursor size / auto-size | **0.3×** with current asset / Off |
 | Disable Windows key in-game | On |
 | First object visibility with visual mods | On (Hidden) |
 
-**Check:** Tablet area and pen sensitivity must be set in your tablet software or tablet settings, not via mouse sensitivity.
 
 ## Gameplay & HUD
 
@@ -54,23 +52,16 @@ Quick reference for a **1920×1080 / 165 Hz** whit keyboard and mouse setup, mai
 | Cursor ripples / built-in trail effects | Off / Off |
 | Slider snaking | In: On; Out: preference |
 
-¹ Beatmap hitsounds are mapper-authored. Turn them back on if you want the intended audio design.
 
 ## Audio
 
 | Setting | Value |
 | --- | --- |
 | Output | Selected USB DAC / headphones |
-| Master / music / effects | **100% / 30% / 30%**, adjust to comfort |
+| Master / music / effects | **100% / 30% / 30%** |
 | Positional hitsound separation | Off |
 | Audio offset | **0 ms** unless measured otherwise |
 | Legacy audio | Keep whichever mode is stable and synchronized |
 
-## Skin & important notes
-
-- Combo colours: **green → red → yellow → blue**.
-- Use `@2x` for double-resolution assets: `cursor@2x.png`, `followpoint-3@2x.png`, etc.
-- After changing cursor, sliders, hitcircles, or input, test dense patterns in **NM and Hidden**.
-- Change one performance or audio setting at a time; don't chase theoretical latency gains at the expense of stability.
 
 *Personal baseline, not a universal performance preset.*
