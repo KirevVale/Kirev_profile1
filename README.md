@@ -14,7 +14,7 @@ Reference configuration for **1920×1080 / 165 Hz**, keyboard and mouse, primari
 | --- | --- |
 | Display | Fullscreen · 1920×1080 · 165 Hz |
 | Renderer / threading | Automatic / Multithreaded |
-| Frame limiter | **8× refresh rate** (1320 FPS cap at 165 Hz; actual FPS depends on performance) |
+| Frame limiter | **8× refresh rate** |
 | UI scale / screen scaling | 1× / Disabled |
 
 ### Input
