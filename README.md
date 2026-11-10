@@ -41,7 +41,7 @@ Quick reference for a **1920×1080 / 165 Hz** whit keyboard and mouse setup, mai
 
 | Setting | Value |
 | --- | --- |
-| Background dim / blur | **90% / 0%** |
+| Background dim / blur | **100% / 0%** |
 | Hit lighting / star fountains | Off / Off |
 | Brighten during breaks / low-health red tint | Off / Off |
 | Beatmap skins / colours | Off / Off |
