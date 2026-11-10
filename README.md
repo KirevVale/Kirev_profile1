@@ -58,7 +58,7 @@ Quick reference for a **1920×1080 / 165 Hz** whit keyboard and mouse setup, mai
 | Setting | Value |
 | --- | --- |
 | Output | Selected USB DAC / headphones |
-| Master / music / effects | **100% / 30% / 30%** |
+| Master / music / effects | **100% / 40% / 50%** |
 | Positional hitsound separation | Off |
 | Audio offset | **0 ms** unless measured otherwise |
 | Legacy audio | Keep whichever mode is stable and synchronized |
